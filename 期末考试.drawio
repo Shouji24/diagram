@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T12:38:29.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.4.13" etag="oVBkTvwe_YmEB8JdlIVN" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-02T12:40:42.224Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="p94MLgD1opoCLq4mJEB9" version="24.4.13" type="github">
   <diagram name="第 1 页" id="B96K5WzlZqMP1wMQMgjr">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6b6hiXQEX5N1ml9V3xJ7-5" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="360" y="270" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6b6hiXQEX5N1ml9V3xJ7-6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
