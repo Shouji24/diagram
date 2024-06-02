@@ -1,17 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T12:42:20.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="YPOJ3tDng5Vc6zE5iJZT" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-02T12:44:42.773Z" agent="Mozilla/5.0 (Android 14; Mobile; rv:125.0) Gecko/125.0 Firefox/125.0" etag="ywaCuUiQePwpeMIfJ0Hk" version="24.4.13" type="github">
   <diagram name="第 1 页" id="B96K5WzlZqMP1wMQMgjr">
-    <mxGraphModel dx="794" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="183" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6b6hiXQEX5N1ml9V3xJ7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6b6hiXQEX5N1ml9V3xJ7-5" target="6b6hiXQEX5N1ml9V3xJ7-6">
+        <mxCell id="6b6hiXQEX5N1ml9V3xJ7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="6b6hiXQEX5N1ml9V3xJ7-5" target="6b6hiXQEX5N1ml9V3xJ7-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6b6hiXQEX5N1ml9V3xJ7-5" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="6b6hiXQEX5N1ml9V3xJ7-5" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="360" y="270" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6b6hiXQEX5N1ml9V3xJ7-6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="6b6hiXQEX5N1ml9V3xJ7-6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="620" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hwz1LoBLpwTIjPVH5oCB-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="340" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
